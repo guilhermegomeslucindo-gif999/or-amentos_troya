@@ -1,0 +1,12 @@
+{
+  "name": "Gerador de Orçamentos · Marmoraria Troya",
+  "short_name": "Orçamentos Troya",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#0f0e0c",
+  "icons": [
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
